@@ -1,5 +1,4 @@
-Hi 👋, I'm Shraddha Wakde</h1>
-- 🌱 I’m currently learning **Full Stack Data Science Specialization Program.**
+Hi 👋, I'm Shraddha W Mahajan</h1>
 
 - 👯 I’m looking to collaborate on **Projects related to Python Programming.**
 
