@@ -4,5 +4,5 @@ Hi 👋, I'm Shraddha W Mahajan</h1>
 
 - 📫 How to reach me **shraddhawakde98@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shraddha-wakde-51b6b813b/](https://www.linkedin.com/in/shraddha-wakde-51b6b813b/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shraddha-w-mahajan-51b6b813b]
 
